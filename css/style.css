@@ -1,43 +1,3 @@
-/* Css Ecoisty For Construct */
-
-
-/************ TABLE OF CONTENTS ***************
-1. Fonts
-2. Reset
-3. Global
-4. Main Header
-5. Main Slider
-6. About Section
-7. Cta Section
-9. Service Section
-8. Fact Counter
-10. Image Gallery
-11. Testimonials Section
-12. News Section
-14. Brand Section
-15. Newsletter Section
-16. Main Footer
-19. About Page
-20. Service Page
-21. Service Details Content
-22. Our Project
-23. Project Details
-24. Team Page
-25. Event Page
-26. Event Details
-27. Event Details Content
-28. Error Section
-29. Our Blog
-30. Blog Classic Content
-31. Sidebar Content
-32. Blog Details
-33. Blog Details Content
-34. Contact Section
-
-
-**********************************************/
-
-
 /* use font link */
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
@@ -821,8 +781,8 @@ h6 a:hover {
 }
 
 .logo-box {
-    background: url(../images/logo/logo1.png) no-repeat 9% 100%;
-    height: 62px;
+    background: url(../images/logo/logo1.jpg) no-repeat 100% 100%;
+    height: 100px;
     margin-top: 27px;
     margin-left: -12px;
 }
